@@ -1,6 +1,6 @@
 # Task-04: Simple Keylogger
 
-## ⚠️ Educational Use Only
+## Educational Use Only
 This project is for learning purposes. Keyloggers can be dangerous if used unethically. Always obtain proper permissions.
 
 ## Description
